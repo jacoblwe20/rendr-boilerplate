@@ -3465,3 +3465,8 @@ table.show-for-xlarge, table.show-for-large, table.hide-for-small, table.hide-fo
 /* 
 	Go ahead and just put the styles here.
 */
+/* line 7, ../../assets/sass/main.scss */
+.widget {
+  width: 300px;
+  border: solid 1px black;
+}
