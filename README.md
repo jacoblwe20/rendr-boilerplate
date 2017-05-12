@@ -1,6 +1,8 @@
 # Rendr App Template
 ## GitHub Browser
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jcblw/rendr-boilerplate.svg)](https://greenkeeper.io/)
+
 The purpose of this little app is to demonstrate one way of using Rendr to build a web app that runs on both the client and the server.
 
 ![Screenshot](http://cl.ly/image/062d3S2D1Y38/Screen%20Shot%202013-04-09%20at%203.14.31%20PM.png)
